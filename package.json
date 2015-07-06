@@ -1,0 +1,31 @@
+{
+  "name": "lab-teamcity-reporter",
+  "version": "1.0.0",
+  "description": "Teamcity reporter for Lab tests",
+  "main": "/lib/reporter.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bapti/lab-teamcity-reporter.git"
+  },
+  "keywords": [
+    "lab",
+    "reporter",
+    "teamcity",
+    "test"
+  ],
+  "author": "Neil Crawford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bapti/lab-teamcity-reporter/issues"
+  },
+  "homepage": "https://github.com/bapti/lab-teamcity-reporter#readme",
+  "devDependencies": {
+    "code": "^1.4.1",
+    "gulp": "^3.9.0",
+    "gulp-lab": "^1.0.5",
+    "lab": "^5.13.0"
+  }
+}
